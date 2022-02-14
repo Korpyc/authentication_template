@@ -1,6 +1,6 @@
 # authentication_template
 
-A new Flutter project.
+This is my personal authentication template for business logic
 
 ## Getting Started
 
